@@ -8,7 +8,7 @@ namespace CsharpPractices
 {
     class Work
     {
-        public static void Mapping<T>(string file, T entity)
+        public static void Mapping<T>(T entity, string sourceFile, string targetFile)
         {
 
         }
